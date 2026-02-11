@@ -5,7 +5,7 @@
 
  **Ales Kuchar, Gunter Stober, Dimitry Pokhotelov, Huixin Liu, Han-Li Liu, Manfred Ern, Damian Murphy, Diego Janches, Tracy Moffat-Griffin, Nicholas Mitchell, and Christoph Jacobi**
 
-Submitted to [ANGEO](egusphere.copernicus.org/preprints/2025/egusphere-2025-2827/)
+Submitted to [ANGEO](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2827/)
 
 Code used to process and visualise the model and other data outputs in order to reproduce figures in the manuscript.
 Model data are available [here](?). All datasets already preprocessed can be found [here](?).
